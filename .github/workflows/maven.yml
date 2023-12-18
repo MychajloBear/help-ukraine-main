@@ -24,10 +24,10 @@ jobs:
     - name: Set up JDK 17
       uses: actions/setup-java@v3
       with:
-        java-version: '19'
+        java-version: '17'
         distribution: 'temurin'
         cache: maven
-    - name: Build with Maven
+    - name: WTF?!
       run: mvn -B package --file backend/pom.xml
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
