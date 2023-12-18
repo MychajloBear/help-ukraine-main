@@ -1,8 +1,0 @@
-de\ukrainewin\helpukraine\HelpUkraineApplication.class
-de\ukrainewin\helpukraine\controller\MedicamentController.class
-de\ukrainewin\helpukraine\service\FoodService.class
-de\ukrainewin\helpukraine\service\IdService.class
-de\ukrainewin\helpukraine\model\FoodDTO.class
-de\ukrainewin\helpukraine\model\Food.class
-de\ukrainewin\helpukraine\repo\FoodRepo.class
-de\ukrainewin\helpukraine\controller\FoodController.class
