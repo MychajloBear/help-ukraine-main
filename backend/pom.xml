@@ -14,7 +14,7 @@
 	<name>HelpUkraine</name>
 	<description>This App is gonna help Ukraine in 2022</description>
 	<properties>
-		<java.version>19</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
